@@ -1,0 +1,20 @@
+.container-dua {
+  max-width: 800px;
+  margin: 50px auto;
+}
+
+.layanan {
+  padding: 20px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+
+.layanan.satu {
+  background-color: rgb(119, 119, 255);
+}
+.layanan.dua {
+  background-color: rgb(103, 216, 103);
+}
+.layanan.tiga {
+  background-color: rgb(255, 124, 124);
+}
